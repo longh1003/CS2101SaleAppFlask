@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 13",
+    "price": 24000000,
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.zdnet.com%2Fa%2Fimg%2Fresize%2Ff792d73c3e241b8f40a52875616f490ea1a08e97%2F2023%2F04%2F24%2F4e586f53-afa2-452d-baf4-cc7c78c2c5fb%2Fsamsung-galaxy-a54-5g.jpg%3Fauto%3Dwebp%26fit%3Dcrop%26height%3D1200%26width%3D1200&tbnid=2c_YIvrJMgHIJM&vet=12ahUKEwjNiObE1uaEAxXkbPUHHSUMDqYQMygOegUIARCRAQ..i&imgrefurl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fthis-samsung-phone-is-the-one-most-people-should-buy-and-its-not-a-flagship%2F&docid=uUGAGaJvNbGvhM&w=1200&h=1200&q=phone%20image&ved=2ahUKEwjNiObE1uaEAxXkbPUHHSUMDqYQMygOegUIARCRAQ",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Iphone 15",
+    "price": 24000000,
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.zdnet.com%2Fa%2Fimg%2Fresize%2Ff792d73c3e241b8f40a52875616f490ea1a08e97%2F2023%2F04%2F24%2F4e586f53-afa2-452d-baf4-cc7c78c2c5fb%2Fsamsung-galaxy-a54-5g.jpg%3Fauto%3Dwebp%26fit%3Dcrop%26height%3D1200%26width%3D1200&tbnid=2c_YIvrJMgHIJM&vet=12ahUKEwjNiObE1uaEAxXkbPUHHSUMDqYQMygOegUIARCRAQ..i&imgrefurl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fthis-samsung-phone-is-the-one-most-people-should-buy-and-its-not-a-flagship%2F&docid=uUGAGaJvNbGvhM&w=1200&h=1200&q=phone%20image&ved=2ahUKEwjNiObE1uaEAxXkbPUHHSUMDqYQMygOegUIARCRAQ",
+    "category_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Galaxy S23",
+    "price": 24000000,
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.zdnet.com%2Fa%2Fimg%2Fresize%2Ff792d73c3e241b8f40a52875616f490ea1a08e97%2F2023%2F04%2F24%2F4e586f53-afa2-452d-baf4-cc7c78c2c5fb%2Fsamsung-galaxy-a54-5g.jpg%3Fauto%3Dwebp%26fit%3Dcrop%26height%3D1200%26width%3D1200&tbnid=2c_YIvrJMgHIJM&vet=12ahUKEwjNiObE1uaEAxXkbPUHHSUMDqYQMygOegUIARCRAQ..i&imgrefurl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fthis-samsung-phone-is-the-one-most-people-should-buy-and-its-not-a-flagship%2F&docid=uUGAGaJvNbGvhM&w=1200&h=1200&q=phone%20image&ved=2ahUKEwjNiObE1uaEAxXkbPUHHSUMDqYQMygOegUIARCRAQ",
+    "category_id": 3
+  }, {
+  "id": 4,
+  "name": "Motorola",
+  "price": 24000000,
+  "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F05%2F36%2F24%2F13%2F360_F_536241340_GsrsNhcWC0hyTVaJLilNafyDw6fl0cC8.jpg&tbnid=39YrNPEp34vbQM&vet=12ahUKEwjNiObE1uaEAxXkbPUHHSUMDqYQMygAegQIARBt..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522phone%2Blogo%2522&docid=TESvhV90vSkAnM&w=491&h=360&q=phone%20image&ved=2ahUKEwjNiObE1uaEAxXkbPUHHSUMDqYQMygAegQIARBt",
+  "category_id": 4
+}]
